@@ -9,6 +9,14 @@
 	<atom:link rel="self" href="http://planeteclipse.org/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>Jonas, Maximilian and Philip: Eclipse Theia 1.24 Release: News and Noteworthy</title>
+	<guid isPermaLink="false">https://eclipsesource.com/?p=45885</guid>
+	<link>https://eclipsesource.com/blogs/2022/04/14/eclipse-theia-1-24-release-news-and-noteworthy/</link>
+	<description>&lt;p&gt;We are happy to announce the Eclipse Theia 1.24 release! This release contains an amazing number of 78 merged pull requests...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://eclipsesource.com/blogs/2022/04/14/eclipse-theia-1-24-release-news-and-noteworthy/&quot; rel=&quot;nofollow&quot;&gt;Eclipse Theia 1.24 Release: News and Noteworthy&lt;/a&gt; appeared first on &lt;a href=&quot;https://eclipsesource.com&quot; rel=&quot;nofollow&quot;&gt;EclipseSource&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Thu, 14 Apr 2022 10:55:13 +0000</pubDate>
+</item>
+<item>
 	<title>John Kellerman: Theia Adopter Story: The new Arduino IDE 2.0</title>
 	<guid isPermaLink="false">7147 at https://blogs.eclipse.org</guid>
 	<link>https://blogs.eclipse.org/post/john-kellerman/theia-adopter-story-new-arduino-ide-20</link>
@@ -5029,33 +5037,6 @@ export class HelloWorldCommandContribution implements CommandContribution {
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 class=&quot;heading&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://blog.marcnuri.com/eclipse-jkube-1-6-0/#how-can-you-help&quot;&gt;&lt;i class=&quot;anchor__link fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span id=&quot;how-can-you-help&quot;&gt;&lt;/span&gt;How can you help?&lt;/h2&gt;&lt;p&gt;If you're interested in helping out and are a first time contributor, check out the &lt;a href=&quot;https://github.com/eclipse/jkube/labels/first-timers-only&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;Link to https://github.com/eclipse/jkube/labels/first-timers-only&quot;&gt;&quot;first-timers-only&quot;&lt;/a&gt; tag in the issue repository. We've tagged extremely easy issues so that you can get started contributing to Open Source and the Eclipse organization.&lt;/p&gt;&lt;p&gt;If you are a more experienced developer or have already contributed to JKube, check the &lt;a href=&quot;https://github.com/eclipse/jkube/labels/help%20wanted&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;Link to https://github.com/eclipse/jkube/labels/help%20wanted&quot;&gt;&quot;help wanted&quot;&lt;/a&gt; tag.&lt;/p&gt;&lt;p&gt;We're also excited to read articles and posts mentioning our project and sharing the user experience. Feedback is the only way to improve.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.eclipse.org/jkube&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;Link to https://www.eclipse.org/jkube&quot;&gt;Project Page&lt;/a&gt; | &lt;a href=&quot;https://github.com/eclipse/jkube&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;Link to https://github.com/eclipse/jkube&quot;&gt;GitHub&lt;/a&gt; | &lt;a href=&quot;https://github.com/eclipse/jkube/issues&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;Link to https://github.com/eclipse/jkube/issues&quot;&gt;Issues&lt;/a&gt; | &lt;a href=&quot;https://gitter.im/eclipse/jkube&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;Link to https://gitter.im/eclipse/jkube&quot;&gt;Gitter&lt;/a&gt; | &lt;a href=&quot;https://accounts.eclipse.org/mailing-list/jkube-dev&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;Link to https://accounts.eclipse.org/mailing-list/jkube-dev&quot;&gt;Mailing list&lt;/a&gt; | &lt;a href=&quot;https://stackoverflow.com/questions/tagged/jkube&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;Link to https://stackoverflow.com/questions/tagged/jkube&quot;&gt;Stack Overflow&lt;/a&gt;&lt;/p&gt;&lt;span class=&quot;post-image__pusher aligncenter&quot;&gt;&lt;/span&gt;&lt;figure class=&quot;post-image &quot;&gt;&lt;span class=&quot;post-image__scrim&quot;&gt;&lt;/span&gt;&lt;a class=&quot;post-image__link&quot; href=&quot;https://blog.marcnuri.com/static/af6673438e09cd98812665335c800cbf/e5189/JKube-blog-banner.jpg&quot; title=&quot;Eclipse JKube Logo&quot;&gt;&lt;span class=&quot;post-image__image-container&quot;&gt;&lt;div class=&quot;gatsby-image-wrapper gatsby-image-wrapper-constrained post-image__image aligncenter&quot;&gt;&lt;source type=&quot;image/webp&quot; /&gt;&lt;img alt=&quot;Eclipse JKube Logo&quot; src=&quot;https://blog.marcnuri.com/static/af6673438e09cd98812665335c800cbf/e5189/JKube-blog-banner.jpg&quot; /&gt;&lt;/div&gt;&lt;/span&gt;&lt;/a&gt;&lt;/figure&gt;</description>
 	<pubDate>Thu, 03 Feb 2022 14:00:00 +0000</pubDate>
         <enclosure url="https://blog.marcnuri.com/static/af6673438e09cd98812665335c800cbf/e5189/JKube-blog-banner.jpg" length="0" type="image/jpg"/>
-</item>
-<item>
-	<title>Edmundo López B.: How DSLs can remove the bottleneck from the development team</title>
-	<guid isPermaLink="true">https://idiomaticsoft.com/post/how-dsl-can-remove-the-bottleneck-from-the-dev-team/</guid>
-	<link>https://idiomaticsoft.com/post/how-dsl-can-remove-the-bottleneck-from-the-dev-team/</link>
-	<description>&lt;p&gt;In his book, &lt;a href=&quot;https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951&quot; target=&quot;_blank&quot;&gt;The Goal&lt;/a&gt;, Eliyahu M. Goldratt presents a way to optimize a plant using his Theory of Constraints. This book lays out the concepts that later will inspire the agile methodologies, which is applying the Theory of Constraints to the development of software. The book &lt;a href=&quot;https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8/ref=sr_1_1?keywords=phoenix+project&amp;amp;qid=1643662103&amp;amp;s=books&amp;amp;sprefix=phoenix+%2Cstripbooks%2C241&amp;amp;sr=1-1&quot; target=&quot;_blank&quot;&gt;The Phoenix Project&lt;/a&gt; relates the concepts explained in The Goal with IT and software development.&lt;/p&gt;
-&lt;p&gt;The gist of the approaches in these books is the following. To optimize a system (for example, a development organization) we must:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Identify the system’s bottleneck&lt;/li&gt;
-&lt;li&gt;Decide how to exploit the bottleneck (basically, make use at 100% of the resources that are part of the bottleneck)&lt;/li&gt;
-&lt;li&gt;Make sure everything else works in sync with the constraints.&lt;/li&gt;
-&lt;li&gt;Elevate the system bottleneck, e.g. adding more resources, repurpose other resources to help with the work at the bottleneck, etc)&lt;/li&gt;
-&lt;li&gt;If, in a previous step, a bottleneck has been broken, go back to step 1&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;In many organizations, the bottleneck is the development team. The common solutions to &lt;em&gt;elevate&lt;/em&gt; them are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Hire more developers or bring in some consultants&lt;/li&gt;
-&lt;li&gt;Outsources some development to external developers&lt;/li&gt;
-&lt;li&gt;Make them more efficient (agile methodologies, CI/CD, training, etc)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;However, there is another way: bypass them completely by going directly from spec to code without the intervention of the development team. This does not replace the development team, but frees them to tackle the work that only they can do,&lt;/p&gt;
-&lt;h3 id=&quot;enter-domain-specific-languages&quot;&gt;Enter Domain Specific Languages…&lt;/h3&gt;
-&lt;p&gt;Domain-Specific Languages (DSLs) help the company to completely bypass the dev team by allowing  the users to create their business processes or rules themselves. A dev team still exists to create and maintain tools, but once the tool exists, the user is capable of designing and deploying by herself the workflows or rules she needs.&lt;/p&gt;
-&lt;p&gt;DSLs are like programming languages but aimed at the subject-matter expert. They can describe a compliance reports, data manipulations, business rules, etc., but they are designed to be understood by the expert themselves, allowing them to directly the specification of the software. After they are done and have tested their creation, the users can directly have the code generated (or run by an engine) and have it ready to use.&lt;/p&gt;
-&lt;p&gt;This approach saves time because the development team is not involved, there is less risk of having bugs or missunderstandings and the design happens at a much higher level of abstraction. This allows the subject-matter expert to reason in terms he is familiar with, and sometimes domain-validations can be included at design time, which find bugs before the code is even run.&lt;/p&gt;
-&lt;p&gt;Do you think domain-specific languages can be useful in your organization?&lt;/p&gt;</description>
-	<pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
 </item>
 
 </channel>
